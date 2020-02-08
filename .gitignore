@@ -1,0 +1,8 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+test-results-*.xml
+
