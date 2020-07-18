@@ -2,6 +2,8 @@
 
 (require "tol.rkt")
 (provide (all-from-out "tol.rkt"))
+(require "cb.rkt")
+(provide (all-from-out "cb.rkt"))
 
 (module+ test
   (require rackunit))
